@@ -15,9 +15,9 @@ Plain HTML, CSS and vanilla JavaScript. No build step or framework. Content live
 ## Tools used
 - AI coding assistant to plan the structure, write the HTML/CSS/JS and debug the canvas animations.
 - Reference site studied for content, layout and section order. All code here was written fresh.
-- Git and GitHub for version control, GitHub Pages for hosting.
+- Git and GitHub for version control, Vercel for hosting.
 
 ## Run locally
-Live: https://raviteja995952.github.io/importnow-rebuild/
+Live: https://importnow-rebuild.vercel.app/
 
 Open `index.html` in a browser, or run `npx serve .`.
